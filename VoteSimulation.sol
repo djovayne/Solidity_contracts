@@ -193,3 +193,5 @@ contract Voting is Ownable {
         return proposalsVoteCounts[highestVoteCount];
     }
 }
+
+// Fin du voting process
